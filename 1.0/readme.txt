@@ -1,4 +1,4 @@
-=== Related Posts Slider ===
+=== Music Bar ===
 Contributors: BUMBABlog
 Tags: music, song, bar, control, widget, mp3, playlist, list, bumbablog, media, video
 Donate link: http://bumbablog.com 
@@ -6,11 +6,11 @@ Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag: 1.0
 
-Music Bar te ayuda a administrar una barra de musica en la parte inferior de su web site. Aprovecha las miles de canciones de BUMBABlog ilimitada y gratuitamente. 
+Music Bar te ayuda a administrar una barra de musica en la parte inferior de tu web site. Aprovecha las miles de canciones de BUMBABlog ilimitada y gratuitamente. 
 
 == Description ==
 
-Este es un plugin que te ayudará a administrar canciones a traves de una barra inferior. Podras escuchar musica mientras navegas sin interrupciones. Ayuda a aumentar el tiempo de permanencia en tu sitio por parte de tus visitantes. El control de la barra se encuentra en un widget el cual tienes que colocarlo en un sidebar.
+Este es un plugin que te ayudara a administrar canciones a traves de una barra inferior. Podras escuchar musica mientras navegas sin interrupciones. Ayuda a aumentar el tiempo de permanencia en tu sitio por parte de tus visitantes. El control de la barra se encuentra en un widget el cual tienes que colocarlo en un sidebar.
 
 = Features =
 
