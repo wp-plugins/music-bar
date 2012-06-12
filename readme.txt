@@ -6,7 +6,7 @@ Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag: 1.0
 
-Music Bar te ayuda a administrar una barra de musica en la parte inferior de tu web site. Aprovecha las miles de canciones de BUMBABlog ilimitada y gratuitamente. 
+Music Bar te ayuda a administrar una barra de musica en la parte inferior de tu web site. Aprovecha las miles de canciones de BUMBABlog gratuitamente. 
 
 == Description ==
 
@@ -14,8 +14,13 @@ Este es un plugin que te ayudara a administrar canciones a traves de una barra i
 
 = Features =
 
+- Escucha musica sin interrupciones.
+- Selecciona los géneros que desees.
+- Abre en un popup el reproductor.
+- Playlist.
 
-= Premium Sliders =
+
+= Premium Music Bar =
 
 
 
