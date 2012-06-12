@@ -15,7 +15,7 @@ Este es un plugin que te ayudara a administrar canciones a traves de una barra i
 = Features =
 
 - Escucha musica sin interrupciones.
-- Selecciona los géneros que desees.
+- Selecciona los generos que desees.
 - Abre en un popup el reproductor.
 - Playlist.
 
