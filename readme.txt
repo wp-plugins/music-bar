@@ -17,12 +17,8 @@ Este es un plugin que te ayudara a administrar canciones a traves de una barra i
 - Escucha musica sin interrupciones.
 - Selecciona los generos que desees.
 - Abre en un popup el reproductor.
-- Playlist.
-
-
-= Premium Music Bar =
-
-
+- Playlist de las canciones.
+- Tus visitantes escucharan musica mientras visitan tu web.
 
 == Installation ==
 
