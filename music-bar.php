@@ -1,3 +1,4 @@
+﻿
 <?php
 /*
 Plugin Name: Music Control widget
@@ -58,7 +59,8 @@ boton.disabled = false;
     }
 
     else{     
-      document.location = "/wp-content/plugins/music-bar/barra.html";
+      
+      
       boton.disabled = false;
     }
 }
@@ -114,7 +116,8 @@ function cerrar()
 }
    // -->
 </SCRIPT>                 
-<div style="padding:3px; background: #333333; height:92px">           
+<div style="background: #000000; padding: 2px"><a style ="color:#666666; font-size: 8px;" href="http://bumbablog.com" target="_blank">BUMBABlog</a></div>
+<div style="padding:3px; background: #333333; height:83px">           
 <div style="margin-bottom:3px; height:35px; background:#000000; color:#ffffff; cursor: pointer;  text-align:center; font-size:medium; padding-top:20px;" id="boton" name="boton" onClick="iniciar()">Play - <?php echo $instance['title']; ?></div>
 
 <div style="float: left; width:25%; height:22px; background:#000000; color:#ffffff; cursor: pointer;  text-align:center; font-size:normal; padding-top:3px;" id="boton_ce" name="boton_ce" onClick="cerrar()"><p>—</p></div>
@@ -124,7 +127,7 @@ function cerrar()
 <div style="float: left;  width:25%; height:20px; background:#000000; color:#ffffff; cursor: pointer;  text-align:center; font-size:normal; padding-top:5px;" id="boton_am" name="boton_am" onClick="ampliar()"><b>List</b></div>
 
 <div style="float: right;  width:25%; height:20px; background:#111111; color:#ffffff; cursor: pointer;  text-align:center; font-size:normal; padding-top:5px;" id="boton_de" name="boton_de" onClick="desactivar()"><b>X</b></div>
-<a style ="color:#000000; font-size: 8px;" href="http://bumbablog.com" target="_blank">BUMBABlog</a>
+
 </div>            
             
             
@@ -167,3 +170,5 @@ ST1;
 
 }
 ?>
+
+     
