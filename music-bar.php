@@ -116,7 +116,7 @@ function cerrar()
 }
    // -->
 </SCRIPT>                 
-<div style="background: #000000; padding: 2px"><a style ="color:#666666; font-size: 8px;" href="http://bumbablog.com" target="_blank">BUMBABlog</a></div>
+<div style="background: #000000; padding: 3px"><a style ="color:#666666; font-size: 8px;" href="http://bumbablog.com" target="_blank">BUMBABlog</a></div>
 <div style="padding:3px; background: #333333; height:83px">           
 <div style="margin-bottom:3px; height:35px; background:#000000; color:#ffffff; cursor: pointer;  text-align:center; font-size:medium; padding-top:20px;" id="boton" name="boton" onClick="iniciar()">Play - <?php echo $instance['title']; ?></div>
 
